@@ -9,4 +9,5 @@ You reached the Transversal GitHub for the following projects
 - BelgianProfileVersioningStrategy
   - how will we handle the coexistence of profiles of different versions in Belgian FHIR repositories (https://github.com/ehealthplatformstandards/BelgianProfileVersioningStrategy)
 
-Questions and clarifications that are common to the four projects will be handled here.
+Questions and clarifications that are common to the four projects will be handled here:
+  - Mostly related to Governance of the project

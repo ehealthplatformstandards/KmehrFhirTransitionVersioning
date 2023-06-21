@@ -11,3 +11,6 @@ You reached the Transversal GitHub for the following projects
 
 Questions and clarifications that are common to the four projects will be handled here:
   - Mostly related to Governance of the project
+
+### For any question regarding the Governance, please refer to our Wiki:
+  - https://github.com/ehealthplatformstandards/KmehrFhirTransitionVersioning/wiki
